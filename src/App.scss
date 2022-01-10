@@ -1,0 +1,50 @@
+.center_flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center_flex_col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.padding4 {
+  padding: 4px;
+}
+
+.padding8 {
+  padding: 8px;
+}
+
+.padding12 {
+  padding: 12px;
+}
+
+.padding16 {
+  padding: 16px;
+}
+
+.antd_a_style {
+  color: #1890ff;
+  cursor: pointer;
+}
+
+.antd_a_style:hover{
+  color: #40a9ff;
+  cursor: pointer;
+}
+
+.font_bold {
+  font-weight: bold;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.tip_font_color {
+  color: #8e908c;
+}
