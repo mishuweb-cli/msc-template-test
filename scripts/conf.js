@@ -8,7 +8,7 @@ const SERVER_HOST = 'localhost';
 const SERVER_PORT = 2333;
 
 // Whether to enable bundle package analysis
-const shouldOpenAnalyzer = false;
+const shouldOpenAnalyzer = true;
 const ANALYZER_HOST = 'localhost';
 const ANALYZER_PORT = '8888';
 
