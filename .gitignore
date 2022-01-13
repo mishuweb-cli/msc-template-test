@@ -3,6 +3,7 @@ build/
 dist/
 yarn.lock
 package-lock.json
+CHANGELOG.md
 
 # General
 .DS_Store
